@@ -1,4 +1,4 @@
-<p> color: black </p>
-<p> font:cambria </p>
-<div>column-count:number;3
-</div>
+p { color: black; font:cambria;
+}
+Div {column-count:number;3
+}

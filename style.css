@@ -1,4 +1,6 @@
 p { color: black; font:cambria;
 }
+h1, h2 { font:Calibri;
+}
 div {column-count:3; column-width:auto;
 }

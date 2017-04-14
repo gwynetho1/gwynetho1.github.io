@@ -2,5 +2,3 @@ p { color: black; font:Cambria;
 }
 h1, h2, h3 { font:Calibri;
 }
-div {column-count:3; column-width:auto;
-}
